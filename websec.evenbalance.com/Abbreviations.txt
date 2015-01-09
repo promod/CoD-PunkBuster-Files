@@ -1,0 +1,4 @@
+w = Windows
+m = Mac OS X
+l = Linux
+k = Linux-64
