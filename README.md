@@ -23,7 +23,7 @@ Files are obtained using the [PBSetup](http://evenbalance.com/index.php?page=pbs
 <p> game_os cod w l m
 <p> game_os cod2 w l m
 <p> game_os cod4 w l m
-<p> game_os waw w l m
+<p> game_os waw w l
 ```
 
 There is a good chance that rerunning PBSetup overwrites this file and as a result deletes the entries above. Making the file write protected for the application can help to combat that.
