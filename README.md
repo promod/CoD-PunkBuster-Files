@@ -12,7 +12,7 @@ Just download the appropriate `pb` folder and move it to the game folder. All mi
 
 ## How are files obtained?
 
-Files are obtained using PBSetup tool. Once PBSetup has been run, it creates `pbgame.htm` which contains information about available games in readable format. All one has to do is specify information about missing games.
+Files are obtained using the [PBSetup](http://evenbalance.com/index.php?page=pbsetup.php) tool. Once PBSetup has been run, it creates `pbgame.htm` which contains information about available games in readable format. All one has to do is specify information about missing games.
 
 ```
 <p> game cod "Call of Duty"
