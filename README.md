@@ -5,14 +5,14 @@ Archive of latest PunkBuster files for Call of Duty games.
 
 Although contract between Activision and Even Balance has ended and PunkBuster is not supported for Call of Duty games anymore, there is still some useful functionality that PunkBuster can provide for Call of Duty game servers.
 
-One reason is to make obtaining those files easier and second reason is the fear that one day these files will not exist in EvenBalance servers anymore.
+One reason is to make obtaining those files easier and second reason is ~~the fear that one day these files will not exist in EvenBalance servers anymore~~ that the files were removed from Even Balance's servers.
 
 ## How to use?
 Just download the appropriate `pb` folder and move it to the game folder. All missing files will be created from the existing ones. You might need to update your [PBSvc](http://www.evenbalance.com/downloads/pbsvc/pbsvc.exe), though.
 
-## How are files obtained?
+## How were files obtained?
 
-Files are obtained using the [PBSetup](http://evenbalance.com/index.php?page=pbsetup.php) tool. Once PBSetup has been run, it creates `pbgame.htm` which contains information about available games in readable format. All one has to do is specify information about missing games.
+Files were obtained using the [PBSetup](http://evenbalance.com/index.php?page=pbsetup.php) tool. Once PBSetup has been run, it creates `pbgame.htm` which contains information about available games in readable format. Following entries were added for missing games.
 
 ```
 <p> game cod "Call of Duty"
